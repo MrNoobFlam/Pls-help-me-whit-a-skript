@@ -1,5 +1,7 @@
 # Pls-help-me-whit-a-skript
 So i have a skript named /grant and i want it to work like in a spesific world so like if im in kitpvp andd do /grant it only shows the kitpvp ranks command 
+
+
 command /grant [<offline player>] [<text>]:
     permission: grant.rank
     permission message: §fUnknown command. Type "/help" for help
